@@ -1,0 +1,9 @@
+git clone ..
+cd ~/Documents/revature/to cloned batch_source folder, files to upload should be in batch-source folder
+echo "..." >> intro.txt
+git add intro.txt
+
+git status
+git checkout -b VasilyevA
+git commit -m "Comment"
+git push -u origin VasilyevA
